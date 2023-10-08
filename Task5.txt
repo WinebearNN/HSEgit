@@ -1,4 +1,1 @@
 test content for git tutorial
-Refactor
-Commit 2
-Commit 3
